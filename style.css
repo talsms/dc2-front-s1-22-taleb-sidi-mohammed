@@ -1,0 +1,10 @@
+.first, .third {
+	color: red;
+}
+
+.second, .fourth {
+	color: blue;
+}
+.fifth {
+	color: greenyellow;
+}
