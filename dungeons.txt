@@ -16,3 +16,59 @@ justify-around
 <div id="dungeon" class="flex 
 justify-between
 ></div>
+---
+<div id="dungeon" class="flex 
+items-center
+></div>
+---
+<div id="dungeon" class="flex 
+items-center justify-center
+></div>
+---
+<div id="dungeon" class="flex 
+items-end justify-around
+></div>
+---
+<div id="dungeon" class="flex 
+flex-row-reverse
+></div>
+---
+<div id="dungeon" class="flex 
+flex-col
+></div>
+---
+<div id="dungeon" class="flex 
+flex-col-reverse justify-center items-end
+></div>
+---
+<div class="yellow-knight 
+order-last
+></div>
+---
+<div class="red-knight 
+order-first
+></div>
+---
+<div class="yellow-knight 
+self-center
+></div>
+---
+<div class="red-knight 
+order-last self-end
+></div>
+---
+<div id="dungeon" class="flex 
+flex-wrap
+></div>
+---
+<div id="dungeon" class="flex 
+flex-wrap-reverse justify-end
+></div>
+---
+<div id="dungeon" class="flex
+content-between
+></div>
+---
+<div id="dungeon" class="flex
+place-content-center flex-wrap-reverse 
+></div>
