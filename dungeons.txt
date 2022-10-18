@@ -1,74 +1,89 @@
+Exo 1
 <div id="dungeon" class="flex 
 justify-end
 ></div>
 ---
-
+Exo 2
 <div id="dungeon" class="flex 
 justify-center
 ></div>
 ---
-
+Exo 3
 <div id="dungeon" class="flex 
 justify-around
 ></div>
 ---
-
+Exo 4
 <div id="dungeon" class="flex 
 justify-between
 ></div>
 ---
+Exo 5
 <div id="dungeon" class="flex 
 items-center
 ></div>
 ---
+Exo 6
 <div id="dungeon" class="flex 
 items-center justify-center
 ></div>
 ---
+Exo 7
 <div id="dungeon" class="flex 
 items-end justify-around
 ></div>
 ---
+Exo 8
 <div id="dungeon" class="flex 
 flex-row-reverse
 ></div>
 ---
+Exo 9
 <div id="dungeon" class="flex 
 flex-col
 ></div>
 ---
+Exo 10
 <div id="dungeon" class="flex 
 flex-col-reverse justify-center items-end
 ></div>
 ---
+Exo 11
 <div class="yellow-knight 
 order-last
 ></div>
 ---
+Exo 12
 <div class="red-knight 
 order-first
 ></div>
 ---
+Exo 13
 <div class="yellow-knight 
 self-center
 ></div>
 ---
+Exo 14
 <div class="red-knight 
 order-last self-end
 ></div>
 ---
+Exo 15
 <div id="dungeon" class="flex 
 flex-wrap
 ></div>
 ---
+Exo 16
 <div id="dungeon" class="flex 
 flex-wrap-reverse justify-end
 ></div>
 ---
+Exo 17
 <div id="dungeon" class="flex
 content-between
 ></div>
 ---
+Exo 18
 <div id="dungeon" class="flex
 place-content-center flex-wrap-reverse 
 ></div>
