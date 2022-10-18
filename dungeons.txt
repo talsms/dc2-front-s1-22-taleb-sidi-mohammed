@@ -1,0 +1,18 @@
+<div id="dungeon" class="flex 
+justify-end
+></div>
+---
+
+<div id="dungeon" class="flex 
+justify-center
+></div>
+---
+
+<div id="dungeon" class="flex 
+justify-around
+></div>
+---
+
+<div id="dungeon" class="flex 
+justify-between
+></div>
