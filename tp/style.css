@@ -26,6 +26,24 @@
 
 /* Eléments principaux de la page */
 
+@media only screen 
+    and (device-width: 390px) 
+    and (device-height: 844px)  {
+        header {
+            display: flex;
+
+        }
+        nav ul {
+            display: flex;
+            flex-direction: column;
+
+        }
+
+  #banniere_image {
+        display: none;
+    }
+
+}
 body
 {
     background: url('images/fond_jaune.png');
@@ -145,6 +163,7 @@ nav a:hover
     font-size: 0.8em;
     
 }
+
 
 .bouton_rouge
 {
@@ -290,3 +309,5 @@ footer h1
     text-decoration: none;
     color: #760001;
 }
+
+
