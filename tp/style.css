@@ -31,13 +31,15 @@
     and (device-height: 844px)  {
         header {
             display: flex;
-
+            justify-content: flex-start;
+            margin: 0px;
         }
         nav ul {
             display: flex;
             flex-direction: column;
 
         }
+
 
   #banniere_image {
         display: none;
@@ -192,6 +194,8 @@ section
 {
     display: flex;
     margin-bottom: 20px;
+    flex-direction: column;
+    text-align: left;
 }
 
 article, aside
